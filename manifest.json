@@ -1,0 +1,11 @@
+{
+  "name": "Data dump",
+  "description": "Data dump",
+  "version": "1.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "dump.html"
+  },
+  "permissions": ["storage"],
+  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDs2r/nSa4MRBoDT1pBx+Q9gI0JaTBaIrsD4uKT9oA4HUF2xboeOA1BDw3lmoJ4G8BL0tAbJTcEnxlkTsCY7C413MojaeDZy4pza3RJqkMAKiJisl8t8eiP+c0ox3l1syb1xmI7EEIouXIxlCX8LGoguB0AuWtunGLCjiLoM2vJLQIDAQAB"
+}
